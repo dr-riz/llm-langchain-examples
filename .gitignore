@@ -1,3 +1,5 @@
 env.sh
 .ipynb_checkpoints
 .env
+*.venv/*
+*.venv_13dec/*
