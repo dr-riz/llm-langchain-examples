@@ -3,3 +3,4 @@ env.sh
 .env
 *.venv/*
 *.venv_13dec/*
+docs/chroma/*
